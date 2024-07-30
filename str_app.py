@@ -1,7 +1,7 @@
 import pickle
 import streamlit as st
 import spotipy
-from spotipy.oauth2 import SpotifyClientCredentialsusic
+from spotipy.oauth2 import SpotifyClientCredentials
 
 
 CLIENT_ID = "6b17cb6121cf4239b009e7ea21895747"
